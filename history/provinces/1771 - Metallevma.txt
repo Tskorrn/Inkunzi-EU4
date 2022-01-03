@@ -1,4 +1,4 @@
-# Placeholder
+# Metallevma
 
 owner = A97
 controller = A97
@@ -10,6 +10,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = unknown
-capital = "Placeholder"
+capital = "Metallevma"
 is_city = yes
 discovered_by = western
